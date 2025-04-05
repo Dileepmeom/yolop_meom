@@ -85,6 +85,8 @@ def main():
 
     onnx_paths = [
         './weights/yolop-320-320.onnx',
+        #'./decoder_combo_experimenting/da_no-det-decoder_320-320.onnx',
+       #' yolop-320-320_quantized.onnx'
     ]
 
     script_dir = os.path.dirname(os.path.abspath(__file__))  # Get the script directory

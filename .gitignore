@@ -1,2 +1,3 @@
 # Ignore the inference folder
 /inference/
+/profiling_results/
